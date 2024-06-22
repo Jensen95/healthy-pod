@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM nginx:stable-alpine3.19-slim
 
 LABEL maintainer="mj.95dk+github-healthy-pod@gmail.com"
 
